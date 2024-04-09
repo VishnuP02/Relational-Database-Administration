@@ -1,12 +1,11 @@
 ### Project Overview
 The goal of this project is to apply the concepts learned throughout the course in setting up and maintaining a PostgreSQL database environment. You will perform various tasks related to database administration, including:
-
-Database Creation: Creating a new PostgreSQL database instance.
-Schema Design: Designing and implementing an appropriate database schema for a given scenario.
-Data Import: Importing sample data into the database.
-User Management: Managing database users, roles, and access privileges.
-Performance Tuning: Implementing optimizations to improve database performance.
-Backup and Recovery: Setting up backup strategies and practicing database recovery procedures.
+- Database Creation: Creating a new PostgreSQL database instance.
+- Schema Design: Designing and implementing an appropriate database schema for a given scenario.
+- Data Import: Importing sample data into the database.
+- User Management: Managing database users, roles, and access privileges.
+- Performance Tuning: Implementing optimizations to improve database performance.
+- Backup and Recovery: Setting up backup strategies and practicing database recovery procedures.
 
 ### Project Structure
 The project consists of the following components:
