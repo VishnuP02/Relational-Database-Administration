@@ -10,21 +10,21 @@ The goal of this project is to apply the concepts learned throughout the course 
 ### Project Structure
 The project consists of the following components:
 1. Database Setup:
-  - Set up a PostgreSQL database server on your local machine or a cloud platform (e.g., AWS, Azure).
-Initialize a new database instance.
+    - Set up a PostgreSQL database server on your local machine or a cloud platform (e.g., AWS, Azure).
+      Initialize a new database instance.
 2. Schema Design:
-  - Design and implement the database schema based on a provided scenario or requirements.
+    - Design and implement the database schema based on a provided scenario or requirements.
 Create necessary tables, indexes, and relationships.
 3. Data Import:
-  - Load sample data into the database to populate tables.
+    - Load sample data into the database to populate tables.
 4. User and Access Management:
-  - Create database users and roles with appropriate permissions.
-    Implement access control for various database objects.
+    - Create database users and roles with appropriate permissions.
+      Implement access control for various database objects.
 5. Performance Optimization:
-  - Identify and implement performance tuning strategies (e.g., indexing, query optimization).
+    - Identify and implement performance tuning strategies (e.g., indexing, query optimization).
 6. Backup and Recovery:
-  - Set up automated backups for the database.
-    Practice database recovery procedures (e.g., point-in-time recovery).
+    - Set up automated backups for the database.
+      Practice database recovery procedures (e.g., point-in-time recovery).
 
 ### Instructions
 Follow these steps to complete the project:
