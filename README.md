@@ -28,37 +28,24 @@ Create necessary tables, indexes, and relationships.
 
 ### Instructions
 Follow these steps to complete the project:
-
-Environment Setup:
-
-Install PostgreSQL on your preferred platform.
+1. Environment Setup:
+    - Install PostgreSQL on your preferred platform.
 Initialize a new database instance.
-Schema Design:
-
-Review the provided scenario or requirements.
-Design and create the necessary database schema.
-Data Import:
-
-Populate the database with sample data.
-User Management:
-
-Create database users and assign appropriate roles and permissions.
-Performance Tuning:
-
-Analyze and optimize database performance as needed.
-Backup and Recovery:
-
-Set up backup procedures and practice recovery scenarios.
-
+2. Schema Design:
+    - Review the provided scenario or requirements.
+      Design and create the necessary database schema.
+3. Data Import:
+    - Populate the database with sample data.
+4. User Management:
+    - Create database users and assign appropriate roles and permissions.
+5. Performance Tuning:
+    - Analyze and optimize database performance as needed.
+6. Backup and Recovery:
+    - Set up backup procedures and practice recovery scenarios.
 
 ### Resources
-Course Materials: Refer to the course lectures, readings, and exercises for relevant concepts and guidance.
-PostgreSQL Documentation: Utilize the official PostgreSQL documentation for detailed information on commands and configurations.
-Submission
-Upon completion, submit your project by providing:
+- Course Materials: Refer to the course lectures, readings, and exercises for relevant concepts and guidance.
+- PostgreSQL Documentation: Utilize the official PostgreSQL documentation for detailed information on commands and configurations.
 
-SQL Scripts: Include SQL scripts used for schema creation, data import, user management, and optimizations.
-README: Document your approach, decisions, and any challenges faced during the project.
-Additional Notes
-This project aims to reinforce your understanding of relational database administration principles and practices.
-Feel free to reach out to instructors and peers through the Coursera forums for assistance and collaboration.
+### Additional Notes
+- This project aims to reinforce my understanding of relational database administration principles and practices.
