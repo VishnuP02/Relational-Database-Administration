@@ -33,7 +33,9 @@ Backup and Recovery:
 
 Set up automated backups for the database.
 Practice database recovery procedures (e.g., point-in-time recovery).
-Instructions
+
+
+### Instructions
 Follow these steps to complete the project:
 
 Environment Setup:
@@ -56,7 +58,9 @@ Analyze and optimize database performance as needed.
 Backup and Recovery:
 
 Set up backup procedures and practice recovery scenarios.
-Resources
+
+
+### Resources
 Course Materials: Refer to the course lectures, readings, and exercises for relevant concepts and guidance.
 PostgreSQL Documentation: Utilize the official PostgreSQL documentation for detailed information on commands and configurations.
 Submission
